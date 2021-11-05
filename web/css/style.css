@@ -152,7 +152,13 @@ nav{
 header{
 	margin-bottom: 25px;
 }
-#home a#homenav, #blog a#blognav, #social a#socialnav, #contact a#contactnav{
+#home a#homenav{
+	color: #3a24b8;
+}
+#blog a#blognav{
+	color: #3a24b8;
+}
+#contact a#contactnav{
 	color: #3a24b8;
 }
 /*************** B A N N E R    S T Y L E ******************/
